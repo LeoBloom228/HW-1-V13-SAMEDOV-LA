@@ -6,7 +6,7 @@
 
 //Задание 1
 
-void task1()
+int main()
 
 {
 
@@ -21,6 +21,8 @@ void task1()
 
 	std::cout << std::fixed << std::setprecision(2);
 	std::cout << "Result: " << result << std::endl;
+
+	return 0;
 
 }
 
